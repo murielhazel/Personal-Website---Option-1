@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="60px" viewBox="0 0 40 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-664.000000, -27.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Page-1" sketch:type="MSLayerGroup" transform="translate(665.000000, 28.000000)">
+                <path d="M27.83,10 L9.83,10 L3.83,0 L32.83,0 L27.83,10 L27.83,10 Z" id="Stroke-1" sketch:type="MSShapeGroup"></path>
+                <path d="M22.83,58 L14.83,58 L0,26.48 L9.83,10 L27.83,10 L37.83,26.48 L22.83,58 L22.83,58 Z" id="Stroke-3" sketch:type="MSShapeGroup"></path>
+                <path d="M18.83,30 L18.83,58" id="Stroke-5" sketch:type="MSShapeGroup"></path>
+                <path d="M23.83,25 C23.83,27.76 21.59,30 18.83,30 C16.07,30 13.83,27.76 13.83,25 C13.83,22.24 16.07,20 18.83,20 C21.59,20 23.83,22.24 23.83,25 L23.83,25 Z" id="Stroke-7" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
