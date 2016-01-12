@@ -1,4 +1,4 @@
-/* General Blueprint Style */
+/* Style */
 
 @font-face {
 	font-family: 'bpicons';
@@ -7,9 +7,6 @@
 	src: url('../fonts/bpicons/bpicons.eot');
 	src: url('../fonts/bpicons/bpicons.eot?#iefix') format('embedded-opentype'), url('../fonts/bpicons/bpicons.woff') format('woff'), url('../fonts/bpicons/bpicons.ttf') format('truetype'), url('../fonts/bpicons/bpicons.svg#bpicons') format('svg');
 }
-
-
-/* Made with http://icomoon.io/ */
 
 
 /* Resets */
@@ -56,7 +53,7 @@ a:hover {
 }
 
 
-/* Blueprint header */
+/* header */
 
 .bp-header {
 	padding: 6em 10vw 2em;
@@ -206,4 +203,23 @@ a:hover {
 	.bp-header__title {
 		font-size: 1.8em;
 	}
+}
+
+
+.skills{
+  list-style: none;
+  display: flex;
+ 
+}
+
+.skillsIcon{
+ width: 40px;
+ display: center;
+  justify-content: center;
+}
+
+.skillsList {
+  padding: 0px 20px 0px 20px ;
+   justify-content: center;
+
 }
