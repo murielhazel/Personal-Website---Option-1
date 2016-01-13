@@ -67,12 +67,15 @@ a:hover {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	color: #fff;
+	text-align: center;
 }
 
 .bp-header__desc {
 	font-size: 0.95em;
 	margin: 0.5em 0 1em;
 	padding: 0;
+	text-align: center;
+
 }
 
 .bp-header__present {
@@ -85,6 +88,7 @@ a:hover {
 	letter-spacing: 0.5em;
 	text-transform: uppercase;
 	color: #5c5edc;
+	text-align: center;
 }
 
 .bp-tooltip:after {
@@ -221,5 +225,14 @@ a:hover {
 .skillsList {
   padding: 0px 20px 0px 20px ;
    justify-content: center;
+
+}
+
+  
+.manifesto {
+	display: flex;
+	align-items: center;
+    justify-content: center;
+    padding: 50px;
 
 }
